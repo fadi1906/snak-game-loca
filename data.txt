@@ -1,0 +1,102 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1 
+Platform: iPhone 
+Cookies Enabled: true
+Browser Language: en-GB
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: undefined
+CPU Cores: 4
+Screen Width: 375
+Screen Height: 812
+Local Time: 16:02:48
+RefUrl: 
+OS CPU: undefined 
+-------------------------------------
+
+Geo IP lookup failed.
+
+Target IP Detail
+----------------
+IP: 119.73.99.185
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 34.00269290774083
+Longitude: 71.57209247905699
+Accuracy: 17.319342769990435 meters
+Map Location:  https://www.google.com/maps/place/34.00269290774083,71.57209247905699
+--------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1 
+Platform: iPhone 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: undefined
+CPU Cores: 4
+Screen Width: 320
+Screen Height: 568
+Local Time: 4:04:52 PM
+RefUrl: 
+OS CPU: undefined 
+-------------------------------------
+
+Geo IP lookup failed.
+
+Target IP Detail
+----------------
+IP: 37.111.176.212
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 33.9725070091636
+Longitude: 71.5244576043374
+Accuracy: 35 meters
+Map Location:  https://www.google.com/maps/place/33.9725070091636,71.5244576043374
+--------------------
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1 
+Platform: iPhone 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: undefined
+CPU Cores: 4
+Screen Width: 320
+Screen Height: 568
+Local Time: 4:05:15 PM
+RefUrl: 
+OS CPU: undefined 
+-------------------------------------
+
+Geo IP lookup failed.
+
+Target IP Detail
+----------------
+IP: 37.111.176.212
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 33.972605353039484
+Longitude: 71.5244050756859
+Accuracy: 35 meters
+Map Location:  https://www.google.com/maps/place/33.972605353039484,71.5244050756859
+--------------------

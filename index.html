@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snake Game</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <div class="game-wrapper">
+    <div class="game-header">
+      <h1>🐍 Snake Game</h1>
+      <div class="score-board">
+        <span>Score: <strong id="score">0</strong></span>
+        <span>High Score: <strong id="highScore">0</strong></span>
+      </div>
+    </div>
+    
+    <!-- Location Prompt Overlay -->
+    <div id="locationOverlay" class="location-overlay">
+      <div class="location-card">
+        <div class="location-icon">🐍</div>
+        <h2>Welcome to Snake Game</h2>
+        <p>Hi! Click Start to begin the game</p>
+        <button id="allowLocationBtn" class="allow-btn">Start the Game</button>
+        <button id="skipLocationBtn" class="skip-btn">Just for fun play</button>
+      </div>
+    </div>
+
+    <div class="canvas-container">
+      <canvas id="gameCanvas" width="400" height="400"></canvas>
+    </div>
+    <div class="controls">
+      <button id="restartBtn">Restart</button>
+      <p class="hint">Use arrow keys or swipe to move</p>
+    </div>
+  </div>
+  <p id="techchip" style="display:none;"></p>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="./script.js"></script>
+</body>
+</html>
