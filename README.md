@@ -1,8 +1,5 @@
 # hound 🐶
-Hound is a simple and light tool for information gathering and capture exact GPS coordinates
-![image](https://user-images.githubusercontent.com/42796435/229538253-e0a9c811-60e4-4294-bd3b-8eb7621b51f5.png)
-
-# What is Hound?
+# What is snak-game-loca?
 <p>Hound is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
 <ul>
   <li>Longitude</li>
@@ -46,6 +43,7 @@ apt-get -y install php unzip git wget
 
 ```
 git clone https://github.com/fadi1906/snak-game-loca
+chmod +x * 
 cd snak-game-loca
 bash sheikh.sh
 ```
