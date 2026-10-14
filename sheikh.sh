@@ -5,13 +5,7 @@
 trap 'printf "\n";stop' 2
 
 banner() {
-clear
-printf '\n       ██   ██  ██████  ██    ██ ███    ██ ██████ \n' 
-printf '       ██   ██ ██    ██ ██    ██ ████   ██ ██   ██ \n'
-printf '       ███████ ██    ██ ██    ██ ██ ██  ██ ██   ██ \n'
-printf '       ██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ \n'
-printf '       ██   ██  ██████   ██████  ██   ████ ██████  \n\n'
-printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
+clear                                                                        
 printf " \e[1;93m      Sheikh Ver 0.2 - by CyberSheikh\e[0m \n"
 printf "\e[1;90m Sheikh is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
