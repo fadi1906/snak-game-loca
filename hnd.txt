@@ -1,23 +1,6 @@
 #!/bin/bash
-# Hound v 0.2
-# Powered by TechChip
-# visit https://youtube.com/techchipnet
-
 trap 'printf "\n";stop' 2
 
-banner() {
-clear
-printf '\n       ██   ██  ██████  ██    ██ ███    ██ ██████ \n' 
-printf '       ██   ██ ██    ██ ██    ██ ████   ██ ██   ██ \n'
-printf '       ███████ ██    ██ ██    ██ ██ ██  ██ ██   ██ \n'
-printf '       ██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ \n'
-printf '       ██   ██  ██████   ██████  ██   ████ ██████  \n\n'
-printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
-printf " \e[1;93m      Hound Ver 0.2 - by Anil Parashar [TechChip]\e[0m \n"
-printf " \e[1;92m      www.techchip.net | youtube.com/techchipnet \e[0m \n"
-printf "\e[1;90m Hound is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
-printf "\n"
-}
 
 dependencies() {
 command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; } 
