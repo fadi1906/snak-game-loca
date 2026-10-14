@@ -1,6 +1,6 @@
 
 # What is snak-game-loca?
-<p>Hound is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device</p>
+<p>snak-game-loca is a tool that can remotely capture the exact GPS coordinates of a target device using a PHP server, and can also grab basic information about the system and ISP. This tool can be very helpful in information gathering. you can get following information of the target device. And the victim just play a snake game to get score</p>
 <ul>
   <li>Longitude</li>
   <li>Latitude</li>
