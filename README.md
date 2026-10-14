@@ -45,16 +45,11 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/hound
-cd hound
-bash hound.sh
+git clone https://github.com/fadi1906/snak-game-loca
+cd snak-game-loca
+bash sheikh.sh
 ```
 ## Change log:
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
-### Video Demo
-[![Hound Demo](https://img.youtube.com/vi/IiJRyVmITgI/0.jpg)](https://www.youtube.com/watch?v=IiJRyVmITgI)
 
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
-<p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - Chatbot template : Masud Rana
